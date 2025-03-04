@@ -1,0 +1,3 @@
+This is created using pygame in python.
+It uses multiple user created modules and files to control the environment of the game
+uses various aspects of the pygame module to work.
